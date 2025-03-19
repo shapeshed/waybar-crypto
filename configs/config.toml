@@ -1,0 +1,16 @@
+# Binance API Credentials
+api_key = "YOUR_BINANCE_API_KEY"
+secret_key = "YOUR_BINANCE_SECRET_KEY"
+
+# Market Ticker
+ticker = "BTCUSDT"
+
+# Feature Toggles
+show_funding_rate = true
+show_open_interest = true
+show_volume_change = true
+show_long_short_ratio = true
+
+# Custom Colors
+color_positive = "#a6e3a1" # Green
+color_negative = "#f38ba8" # Red

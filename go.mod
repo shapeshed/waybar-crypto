@@ -1,9 +1,10 @@
 module github.com/shapeshed/waybar-btc
 
 go 1.24.1
+
 require (
 	github.com/BurntSushi/toml v1.5.0
-	github.com/adshao/go-binance/v2 v2.8.2
+	github.com/adshao/go-binance/v2 v2.8.3
 )
 
 require (
